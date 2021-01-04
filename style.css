@@ -10662,3 +10662,10 @@
         text-align: center;
         padding: 4rem;
     }
+@media(max-width:600px){
+    #about{
+        padding:1px;
+    }
+}
+
+
